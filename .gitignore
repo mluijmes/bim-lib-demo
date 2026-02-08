@@ -6,8 +6,12 @@ __pycache__/
 .vscode/
 
 # Rhino / Grasshopper
+*.3dm
+*.gh
 *.ghx
 *.bak
+*.3dmbak
+*.rhl
 
 # OS
 .DS_Store
