@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Rhino / Grasshopper
+*.ghx
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
